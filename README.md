@@ -169,6 +169,7 @@
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3074-apple-redistribution-into-boxes](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -195,6 +196,7 @@
 | [1675-magnetic-force-between-two-balls](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1675-magnetic-force-between-two-balls) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Matrix
 |  |
 | ------- |
@@ -426,6 +428,7 @@
 | [0169-majority-element](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0229-majority-element-ii) |
 | [0692-top-k-frequent-words](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0692-top-k-frequent-words) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Recursion
 |  |
