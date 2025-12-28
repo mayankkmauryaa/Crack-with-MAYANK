@@ -7,12 +7,13 @@ class Solution {
             if (nums[mid] == target)
                 return true;
 
-            if (nums[mid] == nums[l]) {
+            // Ambiguous case caused by duplicates
+            if (nums[l] == nums[mid] && nums[mid] == nums[r]) {
                 l++;
-                continue;
+                r--;
             }
             // left half is sorted
-            if (nums[l] <= nums[mid]) {
+            else if (nums[l] <= nums[mid]) {
                 if (nums[l] <= target && target < nums[mid])
                     r = mid - 1;
                 else
