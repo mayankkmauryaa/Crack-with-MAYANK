@@ -33,7 +33,8 @@ class Solution {
         }
 
         // trying bfs to check if we can get  top to bottom
-        Queue<int[]> q = new LinkedList<>();
+        // Queue<int[]> q = new LinkedList<>();
+        Queue<int[]> q = new ArrayDeque<>();
 
         boolean vis[][] = new boolean[row][col];
 
