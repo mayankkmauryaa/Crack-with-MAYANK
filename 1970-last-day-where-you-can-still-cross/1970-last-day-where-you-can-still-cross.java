@@ -1,3 +1,5 @@
+// T.C - N log N
+
 class Solution {
     public int latestDayToCross(int row, int col, int[][] cells) {
         // min days
@@ -7,15 +9,17 @@ class Solution {
         int day = 0;
 
         // trying whether on a particular day we can cross or not then a/c apply B.S.
-        while(left<=right){
-            int mid = left+(right-left)/2;
+
+        // log n
+        while (left <= right) {
+            int mid = left + (right - left) / 2;
+            // n = row * col
             boolean success = canCross(row, col, cells, mid);
-            if(success){
+            if (success) {
                 day = mid;
                 left = mid + 1;
-            }
-            else {
-                right = mid-1;
+            } else {
+                right = mid - 1;
             }
         }
         return day;
