@@ -122,6 +122,7 @@
 | [0049-group-anagrams](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0078-subsets) |
@@ -253,6 +254,7 @@
 | [0007-reverse-integer](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0067-add-binary) |
 | [0528-random-pick-with-weight](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0528-random-pick-with-weight) |
 | [1013-fibonacci-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1013-fibonacci-number) |
