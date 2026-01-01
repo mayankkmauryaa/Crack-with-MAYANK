@@ -1,44 +1,28 @@
 class Solution {
     public long maxRunTime(int n, int[] batteries) {
-        long sum = 0;
-        for (int bat : batteries)
-            sum += bat;
         long low = 0;
+        long sum = 0;
+        for (int bat : batteries) {
+            sum += bat;
+        }
         long high = sum / n;
         while (low < high) {
             long mid = low + (high - low + 1) / 2;
-            if (canCharge(batteries, mid, n)) {
+            if (canCharge(batteries, n, mid)) {
                 low = mid;
-            } else {
+            } else
                 high = mid - 1;
-            }
         }
         return low;
     }
 
-    public boolean canCharge(int arr[], long x, int n) {
-        long total = 0;
-        for (int val : arr) {
-            total += Math.min(val, x);
-            if (total >= x * n)
+    public boolean canCharge(int arr[], int n, long mid) {
+        long count = 0;
+        for (int i = 0; i < arr.length; i++) {
+            count += Math.min(arr[i], mid);
+            if (count >= n * mid)
                 return true;
         }
-        return total >= x * n;
-    }
-
-    public long maxRunTime1(int n, int[] batteries) {
-        long total = 0;
-        for (int bat : batteries)
-            total += bat;
-        Arrays.sort(batteries);
-        int x = batteries.length;
-        for (int i = x - 1; i >= 0; i--) {
-            if (batteries[i] > total / n) {
-                total -= batteries[i];
-                n--;
-            } else
-                break;
-        }
-        return total / n;
+        return count >= mid * n;
     }
 }
