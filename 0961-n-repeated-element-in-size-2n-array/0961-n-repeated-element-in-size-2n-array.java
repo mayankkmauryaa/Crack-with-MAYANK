@@ -1,8 +1,11 @@
 class Solution {
     public int repeatedNTimes(int[] nums) {
-        for (int i = 0; i < nums.length - 2; i++)
-            if (nums[i] == nums[i + 1] || nums[i] == nums[i + 2])
+        Arrays.sort(nums);
+        for (int i = 0; i < nums.length - 1; i++) {
+            if (nums[i] == nums[i + 1]) {
                 return nums[i];
-        return nums[nums.length - 1];
+            }
+        }
+        return 0;
     }
 }
