@@ -385,6 +385,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1020-number-of-enclaves) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Breadth-First Search
@@ -396,6 +397,7 @@
 | [0542-01-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1036-rotting-oranges) |
@@ -406,6 +408,7 @@
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0802-find-eventual-safe-states) |
 ## Sliding Window
 |  |
 | ------- |
@@ -481,6 +484,7 @@
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0802-find-eventual-safe-states](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0802-find-eventual-safe-states) |
 ## Linked List
 |  |
 | ------- |
