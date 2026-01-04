@@ -161,6 +161,7 @@
 | [1036-rotting-oranges](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1036-rotting-oranges) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1390-four-divisors](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1390-four-divisors) |
 | [1480-running-sum-of-1d-array](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1539-kth-missing-positive-number) |
@@ -266,6 +267,7 @@
 | [1013-fibonacci-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1236-n-th-tribonacci-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1236-n-th-tribonacci-number) |
+| [1390-four-divisors](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1925-count-square-sum-triples](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1925-count-square-sum-triples) |
