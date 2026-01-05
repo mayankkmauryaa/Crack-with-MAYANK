@@ -174,6 +174,7 @@
 | [1675-magnetic-force-between-two-balls](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1675-magnetic-force-between-two-balls) |
 | [1876-map-of-highest-peak](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1876-map-of-highest-peak) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1975-maximum-matrix-sum) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -235,6 +236,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1876-map-of-highest-peak](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1876-map-of-highest-peak) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1975-maximum-matrix-sum) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Hash Table
 |  |
@@ -353,6 +355,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0455-assign-cookies) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1975-maximum-matrix-sum](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1975-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2497-maximum-matching-of-players-with-trainers) |
