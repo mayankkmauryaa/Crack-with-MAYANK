@@ -293,6 +293,7 @@
 | [0022-generate-parentheses](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0049-group-anagrams) |
+| [0065-valid-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0242-valid-anagram) |
