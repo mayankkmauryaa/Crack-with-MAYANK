@@ -112,6 +112,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0035-search-insert-position) |
@@ -299,6 +300,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0049-group-anagrams) |
@@ -470,6 +472,7 @@
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0014-longest-common-prefix) |
 | [0692-top-k-frequent-words](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0692-top-k-frequent-words) |
 | [0808-number-of-matching-subsequences](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0808-number-of-matching-subsequences) |
 ## Heap (Priority Queue)
