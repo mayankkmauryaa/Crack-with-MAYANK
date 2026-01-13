@@ -144,6 +144,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0260-single-number-iii) |
@@ -281,6 +282,7 @@
 | [0062-unique-paths](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0067-add-binary) |
+| [0204-count-primes](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0204-count-primes) |
 | [0528-random-pick-with-weight](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0528-random-pick-with-weight) |
 | [0633-sum-of-square-numbers](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1013-fibonacci-number) |
@@ -542,6 +544,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0204-count-primes) |
 | [1925-count-square-sum-triples](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1925-count-square-sum-triples) |
 ## Brainteaser
 |  |
@@ -566,4 +569,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
