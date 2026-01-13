@@ -302,6 +302,7 @@
 | [0008-string-to-integer-atoi](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0065-valid-number) |
@@ -363,6 +364,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0125-valid-palindrome) |
@@ -560,4 +562,8 @@
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1266-minimum-time-visiting-all-points) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
