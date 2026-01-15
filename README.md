@@ -266,6 +266,7 @@
 | [0073-set-matrix-zeroes](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0560-subarray-sum-equals-k) |
@@ -316,6 +317,7 @@
 | [0067-add-binary](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0392-is-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0583-delete-operation-for-two-strings) |
