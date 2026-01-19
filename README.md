@@ -336,6 +336,7 @@
 | [2186-count-vowel-substrings-of-a-string](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2211-count-collisions-on-a-road](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2211-count-collisions-on-a-road) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3207-make-three-strings-equal](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3207-make-three-strings-equal) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3606-coupon-code-validator](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3606-coupon-code-validator) |
@@ -356,6 +357,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2211-count-collisions-on-a-road](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Backtracking
 |  |
 | ------- |
@@ -553,6 +555,7 @@
 | [0085-maximal-rectangle](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0085-maximal-rectangle) |
 | [0726-number-of-atoms](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0726-number-of-atoms) |
 | [2211-count-collisions-on-a-road](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2211-count-collisions-on-a-road) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Enumeration
 |  |
 | ------- |
