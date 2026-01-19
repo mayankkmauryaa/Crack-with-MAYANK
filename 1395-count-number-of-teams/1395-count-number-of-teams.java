@@ -1,3 +1,4 @@
+// Infinity - BootCamp
 class Solution {
     public int numTeams(int[] rating) {
         int n = rating.length;
