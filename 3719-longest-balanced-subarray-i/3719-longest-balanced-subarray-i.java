@@ -1,6 +1,6 @@
 class Solution {
     public int longestBalanced(int[] nums) {
-        int maxlen = Integer.MIN_VALUE;
+        int maxlen = 0;
         for (int i = 0; i < nums.length; i++) {
             HashSet<Integer> evenSet = new HashSet<>();
             HashSet<Integer> oddSet = new HashSet<>();
@@ -11,7 +11,6 @@ class Solution {
                     maxlen = Math.max(maxlen, j - i + 1);
             }
         }
-        if(maxlen == Integer.MIN_VALUE) return 0;
         return maxlen;
     }
 }
