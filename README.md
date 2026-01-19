@@ -332,6 +332,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0944-delete-columns-to-make-sorted) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1250-longest-common-subsequence](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1250-longest-common-subsequence) |
+| [1544-make-the-string-great](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1544-make-the-string-great) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2211-count-collisions-on-a-road](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2211-count-collisions-on-a-road) |
@@ -554,6 +555,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0085-maximal-rectangle) |
 | [0726-number-of-atoms](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0726-number-of-atoms) |
+| [1544-make-the-string-great](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1544-make-the-string-great) |
 | [2211-count-collisions-on-a-road](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2211-count-collisions-on-a-road) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Enumeration
