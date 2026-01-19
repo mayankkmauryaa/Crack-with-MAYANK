@@ -173,6 +173,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1390-four-divisors) |
+| [1395-count-number-of-teams](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1395-count-number-of-teams) |
 | [1480-running-sum-of-1d-array](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1539-kth-missing-positive-number) |
@@ -492,6 +493,7 @@
 | [1013-fibonacci-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1250-longest-common-subsequence) |
+| [1395-count-number-of-teams](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1395-count-number-of-teams) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Trie
 |  |
@@ -607,5 +609,10 @@
 ## Segment Tree
 |  |
 | ------- |
+| [1395-count-number-of-teams](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1395-count-number-of-teams) |
 | [3719-longest-balanced-subarray-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3719-longest-balanced-subarray-i) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1395-count-number-of-teams](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1395-count-number-of-teams) |
 <!---LeetCode Topics End-->
