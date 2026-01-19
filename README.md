@@ -543,6 +543,7 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0061-rotate-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0237-delete-node-in-a-linked-list) |
 ## Combinatorics
 |  |
 | ------- |
