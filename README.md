@@ -278,6 +278,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3606-coupon-code-validator](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3606-coupon-code-validator) |
@@ -336,6 +337,7 @@
 | [1250-longest-common-subsequence](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1250-longest-common-subsequence) |
 | [1544-make-the-string-great](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1544-make-the-string-great) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2211-count-collisions-on-a-road](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2211-count-collisions-on-a-road) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -511,6 +513,7 @@
 | [0169-majority-element](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0229-majority-element-ii) |
 | [0692-top-k-frequent-words](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0692-top-k-frequent-words) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Recursion
