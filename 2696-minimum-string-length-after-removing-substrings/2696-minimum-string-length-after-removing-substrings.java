@@ -1,3 +1,4 @@
+// Infinity - Class
 class Solution {
     public int minLength(String s) {
         Stack<Character> st = new Stack<>();
