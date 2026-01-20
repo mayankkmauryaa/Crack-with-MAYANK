@@ -1,3 +1,4 @@
+// Infinity - Class
 class Solution {
     public String makeGood(String s) {
         Stack<Character> st = new Stack<>();
