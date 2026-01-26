@@ -151,6 +151,7 @@
 | [0229-majority-element-ii](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0268-missing-number) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0455-assign-cookies](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0455-assign-cookies) |
 | [0528-random-pick-with-weight](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0528-random-pick-with-weight) |
@@ -220,6 +221,7 @@
 | [0162-find-peak-element](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0268-missing-number) |
 | [0528-random-pick-with-weight](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0633-sum-of-square-numbers) |
@@ -280,6 +282,7 @@
 | [0205-isomorphic-strings](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0692-top-k-frequent-words) |
 | [0726-number-of-atoms](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0726-number-of-atoms) |
@@ -303,6 +306,7 @@
 | [0066-plus-one](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0268-missing-number) |
 | [0528-random-pick-with-weight](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0528-random-pick-with-weight) |
 | [0633-sum-of-square-numbers](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1013-fibonacci-number) |
@@ -363,6 +367,7 @@
 | [0078-subsets](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0090-subsets-ii) |
 | [0260-single-number-iii](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0268-missing-number) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Simulation
 |  |
@@ -437,6 +442,7 @@
 | [0169-majority-element](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0455-assign-cookies) |
 | [0692-top-k-frequent-words](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0692-top-k-frequent-words) |
 | [0726-number-of-atoms](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0726-number-of-atoms) |
