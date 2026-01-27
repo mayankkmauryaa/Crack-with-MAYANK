@@ -309,6 +309,7 @@
 | [0007-reverse-integer](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0067-add-binary) |
@@ -563,6 +564,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1013-fibonacci-number) |
