@@ -203,6 +203,7 @@
 | [2706-buy-two-chocolates](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2706-buy-two-chocolates) |
 | [3074-apple-redistribution-into-boxes](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -376,6 +377,7 @@
 | [0260-single-number-iii](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0268-missing-number) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1018-binary-prefix-divisible-by-5) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Simulation
 |  |
 | ------- |
@@ -506,6 +508,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0209-minimum-size-subarray-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -578,6 +581,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3719-longest-balanced-subarray-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3719-longest-balanced-subarray-i) |
 ## Randomized
@@ -673,4 +677,5 @@
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2073-time-needed-to-buy-tickets) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
