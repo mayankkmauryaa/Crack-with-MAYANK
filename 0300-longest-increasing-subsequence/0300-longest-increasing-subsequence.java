@@ -6,6 +6,7 @@ class Solution {
         for (int i = 0; i < n; i++) {
             dp[i] = 1;
         }
+        int ans = 0;
 
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < i; j++) {
@@ -13,12 +14,9 @@ class Solution {
                     dp[i] = Math.max(dp[i], dp[j] + 1);
                 }
             }
+            ans = Math.max(ans, dp[i]);
         }
 
-        int ans = 0;
-        for (int len : dp) {
-            ans = Math.max(ans, len);
-        }
         return ans;
     }
 }
@@ -37,6 +35,10 @@ class Solution_Recursion {
 
         // take current element if increasing
         int take = 0;
+
+        // max(dfs(index + 1, prevIndex),
+        //     1 + dfs(index + 1, index))   // if valid
+
         if (prevIndex == -1 || nums[index] > nums[prevIndex]) {
             take = 1 + dfs(nums, index + 1, index);
         }
