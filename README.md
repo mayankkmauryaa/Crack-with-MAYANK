@@ -206,6 +206,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2706-buy-two-chocolates](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2706-buy-two-chocolates) |
+| [2733-neither-minimum-nor-maximum](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2733-neither-minimum-nor-maximum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -478,6 +479,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2706-buy-two-chocolates](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2706-buy-two-chocolates) |
+| [2733-neither-minimum-nor-maximum](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2733-neither-minimum-nor-maximum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3606-coupon-code-validator](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3606-coupon-code-validator) |
