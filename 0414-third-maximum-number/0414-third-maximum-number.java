@@ -5,20 +5,18 @@ class Solution {
         long third = Long.MIN_VALUE;
 
         for (int num : nums) {
-            if (num == first || num == second || num == third)
-                continue;
             if (num > first) {
                 third = second;
                 second = first;
                 first = num;
-            } else if (num > second) {
+            } else if (num > second && num!= first) {
                 third = second;
                 second = num;
-            } else if (num > third) {
+            } else if (num > third && num!=first && num!=second) {
                 third = num;
             }
         }
-        return third == Long.MIN_VALUE ? (int) first : (int) third;
+        return third != Long.MIN_VALUE ? (int) third : (int) first ;
     }
 }
 
