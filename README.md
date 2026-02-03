@@ -216,6 +216,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3606-coupon-code-validator](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3606-coupon-code-validator) |
+| [3637-trionic-array-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3637-trionic-array-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3731-find-missing-elements) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
