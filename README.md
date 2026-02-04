@@ -176,6 +176,7 @@
 | [0994-rotting-oranges](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1019-next-greater-node-in-linked-list](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1019-next-greater-node-in-linked-list) |
 | [1020-number-of-enclaves](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1036-rotting-oranges) |
 | [1266-minimum-time-visiting-all-points](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1266-minimum-time-visiting-all-points) |
@@ -628,6 +629,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1669-merge-in-between-linked-lists](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1669-merge-in-between-linked-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -648,6 +650,7 @@
 | [0496-next-greater-element-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0496-next-greater-element-i) |
 | [0726-number-of-atoms](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0726-number-of-atoms) |
 | [0907-sum-of-subarray-minimums](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0907-sum-of-subarray-minimums) |
+| [1019-next-greater-node-in-linked-list](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1019-next-greater-node-in-linked-list) |
 | [1544-make-the-string-great](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1544-make-the-string-great) |
 | [2211-count-collisions-on-a-road](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2211-count-collisions-on-a-road) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -678,6 +681,7 @@
 | [0085-maximal-rectangle](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0496-next-greater-element-i) |
 | [0907-sum-of-subarray-minimums](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0907-sum-of-subarray-minimums) |
+| [1019-next-greater-node-in-linked-list](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1019-next-greater-node-in-linked-list) |
 ## Geometry
 |  |
 | ------- |
