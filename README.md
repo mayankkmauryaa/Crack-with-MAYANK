@@ -495,6 +495,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0110-balanced-binary-tree) |
 | [0130-surrounded-regions](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -715,4 +716,12 @@
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2073-time-needed-to-buy-tickets) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
