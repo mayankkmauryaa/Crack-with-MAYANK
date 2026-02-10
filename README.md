@@ -497,6 +497,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0110-balanced-binary-tree) |
 | [0130-surrounded-regions](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0200-number-of-islands) |
@@ -509,6 +510,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -722,9 +724,11 @@
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0110-balanced-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
