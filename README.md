@@ -502,6 +502,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0200-number-of-islands) |
@@ -516,6 +517,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -735,6 +737,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
@@ -744,6 +747,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
