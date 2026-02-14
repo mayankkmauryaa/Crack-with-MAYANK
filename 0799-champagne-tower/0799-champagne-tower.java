@@ -15,6 +15,6 @@ class Solution {
             }
         }
 
-        return dp[query_row][query_glass];
+        return Math.min(1, dp[query_row][query_glass]);
     }
 }
