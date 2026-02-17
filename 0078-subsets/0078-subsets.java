@@ -30,3 +30,34 @@ class Solution {
         }
     }
 }
+
+/*
+                           []
+                 /                       \
+             [1]                         []                             Level 0 (idx=0)
+       (include 1)                (exclude 1)
+          /           \               /            \
+      [1,2]          [1]           [2]             []                   Level 1 (idx=1)
+  (inc2)  (exc2)  (inc2) (exc2)  (inc2)(exc2)   (inc2)(exc2)
+      /    \         /    \        /    \          /    \
+    [1,2,3] [1,2]  [1,3]  [1]    [2,3]   [2]    [3]      []             Level 2 (idx=2)
+*/
+class Solution_ {
+    public List<List<Integer>> subsets(int[] nums) {
+        List<List<Integer>> ans = new ArrayList<>();
+        List<Integer> subset = new ArrayList<>();
+        createSubset(0, nums, ans, subset);
+        return ans;
+    }
+
+    private void createSubset(int idx, int nums[], List<List<Integer>> ans, List<Integer> sub) {
+        if (idx == nums.length) {
+            ans.add(new ArrayList<>(sub));
+            return;
+        }
+        sub.add(nums[idx]);
+        createSubset(idx + 1, nums, ans, sub);
+        sub.remove(sub.size() - 1);
+        createSubset(idx + 1, nums, ans, sub);
+    }
+}
