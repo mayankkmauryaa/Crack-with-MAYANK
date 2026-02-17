@@ -1,25 +1,32 @@
+/*
+                            []
+                   /         |           \
+                 [1]        [2]          [3]
+               /     \       |
+           [1,2]    [1,3]   [2,3]
+             |
+         [1,2,3]
+*/
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
-        List<List<Integer>> ans = new ArrayList<>();
-        List<Integer> subset = new ArrayList<>();
-
-        createSubset(0, nums, ans, subset);
-
-        return ans;
-
+        List<List<Integer>> result = new ArrayList<>();
+        backtrack(nums, 0, new ArrayList<>(), result);
+        return result;
     }
 
-    private void createSubset(int idx, int nums[], List<List<Integer>> ans, List<Integer> sub) {
+    private void backtrack(int[] nums, int start, List<Integer> current, List<List<Integer>> result) {
+        // Add current subset to result
+        result.add(new ArrayList<>(current));
 
-        if (idx == nums.length) {
-            ans.add(new ArrayList<>(sub));
-            return;
+        for (int i = start; i < nums.length; i++) {
+            // Choose
+            current.add(nums[i]);
+
+            // Explore
+            backtrack(nums, i + 1, current, result);
+
+            // Undo choice (backtrack)
+            current.remove(current.size() - 1);
         }
-        sub.add(nums[idx]);
-        createSubset(idx + 1, nums, ans, sub);
-
-        sub.remove(sub.size() - 1);
-        createSubset(idx + 1, nums, ans, sub);
-
     }
 }
