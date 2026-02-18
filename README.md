@@ -158,6 +158,7 @@
 | [0414-third-maximum-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0496-next-greater-element-i) |
 | [0528-random-pick-with-weight](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0540-single-element-in-a-sorted-array) |
@@ -427,6 +428,7 @@
 | [0078-subsets](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0090-subsets-ii) |
 | [0401-binary-watch](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0401-binary-watch) |
+| [0494-target-sum](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0494-target-sum) |
 ## Union Find
 |  |
 | ------- |
@@ -573,6 +575,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0392-is-subsequence](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
