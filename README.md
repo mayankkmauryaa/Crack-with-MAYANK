@@ -381,6 +381,7 @@
 | [0808-number-of-matching-subsequences](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0808-number-of-matching-subsequences) |
 | [0944-delete-columns-to-make-sorted](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0944-delete-columns-to-make-sorted) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1143-longest-common-subsequence](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1143-longest-common-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1250-longest-common-subsequence) |
 | [1544-make-the-string-great](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1544-make-the-string-great) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -585,6 +586,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0907-sum-of-subarray-minimums) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1013-fibonacci-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1013-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1143-longest-common-subsequence) |
 | [1236-n-th-tribonacci-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1250-longest-common-subsequence) |
 | [1395-count-number-of-teams](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1395-count-number-of-teams) |
