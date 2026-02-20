@@ -467,6 +467,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0455-assign-cookies) |
+| [1382-balance-a-binary-search-tree](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1382-balance-a-binary-search-tree) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1975-maximum-matrix-sum](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1975-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -523,6 +524,7 @@
 | [0733-flood-fill](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1020-number-of-enclaves) |
+| [1382-balance-a-binary-search-tree](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1382-balance-a-binary-search-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
@@ -716,6 +718,7 @@
 | [0053-maximum-subarray](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0240-search-a-2d-matrix-ii) |
+| [1382-balance-a-binary-search-tree](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3719-longest-balanced-subarray-i) |
 ## Monotonic Stack
 |  |
@@ -767,6 +770,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0222-count-complete-tree-nodes) |
+| [1382-balance-a-binary-search-tree](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1382-balance-a-binary-search-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -781,5 +785,10 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0222-count-complete-tree-nodes) |
+| [1382-balance-a-binary-search-tree](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1382-balance-a-binary-search-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
