@@ -801,6 +801,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
