@@ -798,4 +798,12 @@
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1382-balance-a-binary-search-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
