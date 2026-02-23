@@ -8,18 +8,18 @@ class Solution {
         int count = 0;
         for (int i = 0; i < n; i++) {
             if (!vis[i]) {
-                dfs(i, isConnected);
+                dfs(isConnected, i);
                 count++;
             }
         }
         return count;
     }
 
-    public void dfs(int st, int arr[][]) {
-        vis[st] = true;
+    private void dfs(int[][] isConnected, int idx) {
+        vis[idx] = true;
         for (int i = 0; i < n; i++) {
-            if (!vis[i] && arr[st][i] == 1) {
-                dfs(i, arr);
+            if (!vis[i] && isConnected[idx][i] == 1) {
+                dfs(isConnected, i);
             }
         }
     }
