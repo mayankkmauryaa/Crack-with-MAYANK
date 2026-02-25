@@ -534,6 +534,7 @@
 | [1325-delete-leaves-with-a-given-value](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1382-balance-a-binary-search-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1971-find-if-path-exists-in-graph](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1971-find-if-path-exists-in-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -554,6 +555,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1876-map-of-highest-peak](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1876-map-of-highest-peak) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1971-find-if-path-exists-in-graph](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1971-find-if-path-exists-in-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Graph
 |  |
@@ -809,8 +811,10 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
