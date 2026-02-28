@@ -16,8 +16,7 @@ class Solution {
         // go till half and swap
         for (int i = 0; i < rows; i++) {
             for (int j = 0; j < rows / 2; j++) {
-                int temp = 0;
-                temp = matrix[i][j];
+                int temp = matrix[i][j];
                 matrix[i][j] = matrix[i][rows - 1 - j];
                 matrix[i][rows - 1 - j] = temp;
             }
