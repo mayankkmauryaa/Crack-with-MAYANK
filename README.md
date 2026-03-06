@@ -396,6 +396,7 @@
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2211-count-collisions-on-a-road](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2211-count-collisions-on-a-road) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2483-minimum-penalty-for-a-shop) |
