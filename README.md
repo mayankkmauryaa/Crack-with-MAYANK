@@ -542,6 +542,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0513-find-bottom-left-tree-value) |
 | [0547-number-of-provinces](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0547-number-of-provinces) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0684-redundant-connection](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0802-find-eventual-safe-states) |
@@ -725,6 +726,7 @@
 | [0234-palindrome-linked-list](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0496-next-greater-element-i) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0726-number-of-atoms](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0726-number-of-atoms) |
 | [0907-sum-of-subarray-minimums](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0907-sum-of-subarray-minimums) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1019-next-greater-node-in-linked-list) |
@@ -805,6 +807,7 @@
 | [0429-n-ary-tree-level-order-traversal](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0513-find-bottom-left-tree-value) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1382-balance-a-binary-search-tree) |
