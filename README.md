@@ -570,6 +570,7 @@
 | [1020-number-of-enclaves](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1036-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1609-even-odd-tree](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1609-even-odd-tree) |
 | [1876-map-of-highest-peak](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1876-map-of-highest-peak) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1971-find-if-path-exists-in-graph) |
@@ -802,6 +803,7 @@
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1382-balance-a-binary-search-tree) |
+| [1609-even-odd-tree](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1609-even-odd-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -820,6 +822,7 @@
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1382-balance-a-binary-search-tree) |
+| [1609-even-odd-tree](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1609-even-odd-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
 |  |
