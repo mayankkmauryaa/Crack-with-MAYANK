@@ -156,6 +156,7 @@
 | [0260-single-number-iii](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0303-range-sum-query-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0414-third-maximum-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0416-partition-equal-subset-sum) |
@@ -670,6 +671,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0303-range-sum-query-immutable) |
 | [0528-random-pick-with-weight](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1480-running-sum-of-1d-array) |
@@ -850,4 +852,8 @@
 | [0547-number-of-provinces](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0684-redundant-connection) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1971-find-if-path-exists-in-graph) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
