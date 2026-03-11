@@ -15,21 +15,26 @@ class Solution {
             color[i] = -1;
         for (int i = 1; i <= n; i++) {
             if (color[i] == -1) {
-                if (!dfs(i, 0))
+                if (!bfs(i, 0))
                     return false;
             }
         }
         return true;
     }
 
-    private boolean dfs(int node, int col) {
+    private boolean bfs(int node, int col) {
         color[node] = col;
-        for (int neigh : graph.get(node)) {
-            if (color[neigh] == col)
-                return false;
-            if (color[neigh] == -1) {
-                if (!dfs(neigh, 1 - col))
+        Queue<Integer> q = new LinkedList<>();
+        q.add(node);
+        while (!q.isEmpty()) {
+            int next = q.poll();
+            for (int neigh : graph.get(next)) {
+                if (color[neigh] == color[next])
                     return false;
+                if (color[neigh] == -1) {
+                    color[neigh] = 1 - color[next];
+                    q.add(neigh);
+                }
             }
         }
         return true;
