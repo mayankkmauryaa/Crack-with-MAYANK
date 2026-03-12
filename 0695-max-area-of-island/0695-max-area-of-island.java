@@ -21,11 +21,12 @@ class Solution {
         Queue<int[]> q = new LinkedList<>();
         q.add(new int[] { r, c });
         grid[r][c] = 0;
-        int area = 1;
+        int area = 0;
         while (!q.isEmpty()) {
             int[] curr = q.poll();
             int x = curr[0];
             int y = curr[1];
+            area++;
             for (int i = -1; i <= 1; i++) {
                 for (int j = -1; j <= 1; j++) {
                     if (Math.abs(i + j) == 1) {
@@ -36,7 +37,6 @@ class Solution {
                             if (grid[nx][ny] == 1) {
                                 q.add(new int[] { nx, ny });
                                 grid[nx][ny] = 0;
-                                area++;
                             }
                         }
                     }
