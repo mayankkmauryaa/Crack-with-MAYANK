@@ -19,13 +19,25 @@ class Node {
 */
 
 class Solution {
-    Map<Node, Node> map = new HashMap<>();
     public Node cloneGraph(Node node) {
         if (node == null) return null;
-        if (map.containsKey(node)) return map.get(node);
+        Map<Node, Node> map = new HashMap<>();
+        Queue<Node> q = new LinkedList<>();
+        q.add(node);
         map.put(node, new Node(node.val));
-        for (Node neigh : node.neighbors)
-            map.get(node).neighbors.add(cloneGraph(neigh));
+
+        while (!q.isEmpty()) {
+            Node next = q.poll();
+            for (Node neigh : next.neighbors) {
+                // adding nodes
+                if (!map.containsKey(neigh)) {
+                    map.put(neigh, new Node(neigh.val));
+                    q.add(neigh);
+                }
+                // adding connections edges
+                map.get(next).neighbors.add(map.get(neigh));
+            }
+        }
         return map.get(node);
     }
 }
