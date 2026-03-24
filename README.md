@@ -221,6 +221,7 @@
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2706-buy-two-chocolates](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2733-neither-minimum-nor-maximum) |
+| [2906-construct-product-matrix](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2906-construct-product-matrix) |
 | [3074-apple-redistribution-into-boxes](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -301,6 +302,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1975-maximum-matrix-sum) |
+| [2906-construct-product-matrix](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2906-construct-product-matrix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3643-flip-square-submatrix-vertically) |
@@ -710,6 +712,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2906-construct-product-matrix](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2906-construct-product-matrix) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3432-count-partitions-with-even-sum-difference) |
