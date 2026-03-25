@@ -8,6 +8,7 @@ class Solution {
             for (int j = 0; j < n; j++)
                 total += grid[i][j];
 
+        // if ((total & 1) == 1) return false;
         if (total % 2 == 1) return false;
         long target = total / 2;
 
