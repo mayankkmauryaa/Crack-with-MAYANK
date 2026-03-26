@@ -128,6 +128,7 @@
 | [0051-n-queens](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0073-set-matrix-zeroes) |
@@ -502,6 +503,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0455-assign-cookies) |
@@ -637,6 +639,7 @@
 | [0032-longest-valid-parentheses](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0118-pascals-triangle) |
