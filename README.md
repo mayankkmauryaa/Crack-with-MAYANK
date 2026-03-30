@@ -344,6 +344,7 @@
 | [2186-count-vowel-substrings-of-a-string](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3606-coupon-code-validator](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3713-longest-balanced-substring-i) |
@@ -426,6 +427,7 @@
 | [2483-minimum-penalty-for-a-shop](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3207-make-three-strings-equal](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3207-make-three-strings-equal) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3606-coupon-code-validator](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3606-coupon-code-validator) |
@@ -548,6 +550,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2706-buy-two-chocolates](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2733-neither-minimum-nor-maximum) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3606-coupon-code-validator](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3606-coupon-code-validator) |
