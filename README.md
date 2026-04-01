@@ -134,6 +134,7 @@
 | [0073-set-matrix-zeroes](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0085-maximal-rectangle) |
@@ -286,6 +287,7 @@
 | [0054-spiral-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0200-number-of-islands) |
@@ -399,6 +401,7 @@
 | [0049-group-anagrams](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0205-isomorphic-strings) |
@@ -468,6 +471,7 @@
 | [0046-permutations](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0090-subsets-ii) |
 | [0401-binary-watch](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0494-target-sum) |
@@ -559,6 +563,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0110-balanced-binary-tree) |
