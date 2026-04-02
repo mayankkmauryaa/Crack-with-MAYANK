@@ -18,6 +18,6 @@ class Solution {
             }
         }
 
-        return ans + roman.get(s.charAt(s.length() - 1));        
+        return ans + roman.get(s.charAt(s.length() - 1));
     }
 }
