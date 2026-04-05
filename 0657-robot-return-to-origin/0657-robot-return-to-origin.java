@@ -2,16 +2,12 @@ class Solution {
     public boolean judgeCircle(String moves) {
         int x = 0;
         int y = 0;
-        int n = moves.length();
-        for (int i = 0; i < n; i++) {
-            char dir = moves.charAt(i);
-
-            if (dir == 'U') y++;
-            if (dir == 'D') y--;
-            if (dir == 'R') x++;
-            if (dir == 'L') x--;
+        for (char dir : moves.toCharArray()) {
+            if (dir == 'L') x++;
+            if (dir == 'R') x--;
+            if (dir == 'D') y++;
+            if (dir == 'U') y--;
         }
-
         return x == 0 && y == 0;
     }
 }
