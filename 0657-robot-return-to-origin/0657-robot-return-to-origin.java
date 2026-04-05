@@ -1,13 +1,10 @@
 class Solution {
     public boolean judgeCircle(String moves) {
-        int x = 0;
-        int y = 0;
-        for (char dir : moves.toCharArray()) {
-            if (dir == 'L') x++;
-            if (dir == 'R') x--;
-            if (dir == 'D') y++;
-            if (dir == 'U') y--;
+        int[] ch = new int[26];
+        for (char move : moves.toCharArray()) {
+            ch[move - 'A']++;
         }
-        return x == 0 && y == 0;
+        return ch['U' - 'A'] == ch['D' - 'A'] &&
+                ch['L' - 'A'] == ch['R' - 'A'];
     }
 }
