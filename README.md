@@ -240,6 +240,7 @@
 | [3634-minimum-removals-to-balance-array](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3643-flip-square-submatrix-vertically) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3731-find-missing-elements) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
@@ -470,6 +471,7 @@
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3379-transformed-array) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -822,6 +824,7 @@
 | [0169-majority-element](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0240-search-a-2d-matrix-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1382-balance-a-binary-search-tree) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3719-longest-balanced-subarray-i) |
 ## Monotonic Stack
 |  |
