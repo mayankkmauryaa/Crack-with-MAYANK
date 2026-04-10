@@ -243,6 +243,7 @@
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3731-find-missing-elements) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Binary Search
 |  |
@@ -354,6 +355,7 @@
 | [3713-longest-balanced-substring-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3731-find-missing-elements) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Math
 |  |
 | ------- |
