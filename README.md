@@ -601,6 +601,7 @@
 | [0785-is-graph-bipartite](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0802-find-eventual-safe-states) |
+| [0841-keys-and-rooms](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -632,6 +633,7 @@
 | [0785-is-graph-bipartite](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0802-find-eventual-safe-states) |
+| [0841-keys-and-rooms](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0886-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1020-number-of-enclaves) |
@@ -935,6 +937,7 @@
 | [0684-redundant-connection](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0797-all-paths-from-source-to-target) |
+| [0841-keys-and-rooms](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0886-possible-bipartition) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1971-find-if-path-exists-in-graph) |
 ## Design
