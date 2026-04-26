@@ -22,8 +22,8 @@ class Solution {
                 if (Math.abs(i + j) == 1) {
                     int nr = r + i;
                     int nc = c + j;
-                    if (nr != pr || nc != pc)
-                        if (nr >= 0 && nr < m && nc >= 0 && nc < n)
+                    if (nr >= 0 && nr < m && nc >= 0 && nc < n)
+                        if (nr != pr || nc != pc)
                             if (grid[nr][nc] == grid[r][c])
                                 if (vis[nr][nc] || dfs(nr, nc, r, c, grid))
                                     return true;
