@@ -200,6 +200,7 @@
 | [1539-kth-missing-positive-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1539-kth-missing-positive-number) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1552-magnetic-force-between-two-balls](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1552-magnetic-force-between-two-balls) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1580-shuffle-the-array](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1580-shuffle-the-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -307,6 +308,7 @@
 | [1036-rotting-oranges](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1036-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1876-map-of-highest-peak](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1876-map-of-highest-peak) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -617,6 +619,7 @@
 | [1325-delete-leaves-with-a-given-value](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1382-balance-a-binary-search-tree](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1382-balance-a-binary-search-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1971-find-if-path-exists-in-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -649,6 +652,7 @@
 | [1036-rotting-oranges](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1036-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1376-time-needed-to-inform-all-employees) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1609-even-odd-tree](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1609-even-odd-tree) |
 | [1876-map-of-highest-peak](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1876-map-of-highest-peak) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -940,6 +944,7 @@
 | [0695-max-area-of-island](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0886-possible-bipartition) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
