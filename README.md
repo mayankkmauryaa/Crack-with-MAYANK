@@ -372,6 +372,7 @@
 | [0066-plus-one](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0319-bulb-switcher) |
 | [0528-random-pick-with-weight](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0528-random-pick-with-weight) |
@@ -457,6 +458,7 @@
 | [0078-subsets](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0268-missing-number) |
 | [0401-binary-watch](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0401-binary-watch) |
@@ -730,6 +732,7 @@
 | [0002-add-two-numbers](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1013-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1823-find-the-winner-of-the-circular-game) |
