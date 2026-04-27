@@ -205,6 +205,7 @@
 | [1580-shuffle-the-array](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1580-shuffle-the-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1652-defuse-the-bomb](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1675-magnetic-force-between-two-balls](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1675-magnetic-force-between-two-balls) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -671,6 +672,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0209-minimum-size-subarray-sum) |
+| [1652-defuse-the-bomb](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
