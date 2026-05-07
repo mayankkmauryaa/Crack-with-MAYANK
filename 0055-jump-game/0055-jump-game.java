@@ -4,7 +4,6 @@ class Solution {
         for (int i = 0; i < nums.length; i++) {
             if (i > jump) return false;
             jump = Math.max(jump, i + nums[i]);
-            if(jump >= nums.length) return true;
         }
         return true;
     }
