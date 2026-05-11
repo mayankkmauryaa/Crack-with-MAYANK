@@ -228,6 +228,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2553-separate-the-digits-in-an-array](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2553-separate-the-digits-in-an-array) |
 | [2706-buy-two-chocolates](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2733-neither-minimum-nor-maximum) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -493,6 +494,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2211-count-collisions-on-a-road](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2553-separate-the-digits-in-an-array](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2553-separate-the-digits-in-an-array) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3379-transformed-array) |
