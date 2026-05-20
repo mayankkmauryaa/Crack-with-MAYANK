@@ -164,6 +164,7 @@
 | [0303-range-sum-query-immutable](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0304-range-sum-query-2d-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0349-intersection-of-two-arrays](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0455-assign-cookies) |
@@ -272,6 +273,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0349-intersection-of-two-arrays) |
 | [0528-random-pick-with-weight](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0633-sum-of-square-numbers) |
@@ -349,6 +351,7 @@
 | [0229-majority-element-ii](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0560-subarray-sum-equals-k) |
@@ -544,6 +547,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0234-palindrome-linked-list) |
+| [0349-intersection-of-two-arrays](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0633-sum-of-square-numbers) |
@@ -585,6 +589,7 @@
 | [0229-majority-element-ii](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0455-assign-cookies) |
 | [0692-top-k-frequent-words](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0692-top-k-frequent-words) |
