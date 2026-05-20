@@ -231,6 +231,7 @@
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2553-separate-the-digits-in-an-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2706-buy-two-chocolates](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2733-neither-minimum-nor-maximum) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -367,6 +368,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -487,6 +489,7 @@
 | [0401-binary-watch](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0401-binary-watch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1018-binary-prefix-divisible-by-5) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Simulation
 |  |
