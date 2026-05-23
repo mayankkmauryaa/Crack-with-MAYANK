@@ -210,6 +210,7 @@
 | [1652-defuse-the-bomb](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1675-magnetic-force-between-two-balls](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1675-magnetic-force-between-two-balls) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1876-map-of-highest-peak](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1876-map-of-highest-peak) |
