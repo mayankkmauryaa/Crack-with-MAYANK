@@ -443,6 +443,7 @@
 | [0392-is-subsequence](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0409-longest-palindrome) |
 | [0516-longest-palindromic-subsequence](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0516-longest-palindromic-subsequence) |
+| [0520-detect-capital](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0520-detect-capital) |
 | [0583-delete-operation-for-two-strings](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0583-delete-operation-for-two-strings) |
 | [0657-robot-return-to-origin](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0657-robot-return-to-origin) |
 | [0692-top-k-frequent-words](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0692-top-k-frequent-words) |
