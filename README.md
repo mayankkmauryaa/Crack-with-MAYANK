@@ -224,6 +224,7 @@
 | [2141-maximum-running-time-of-n-computers](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -515,6 +516,7 @@
 | [2075-decode-the-slanted-ciphertext](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2211-count-collisions-on-a-road](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2553-separate-the-digits-in-an-array](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2553-separate-the-digits-in-an-array) |
@@ -569,6 +571,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2540-minimum-common-value](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3643-flip-square-submatrix-vertically) |
