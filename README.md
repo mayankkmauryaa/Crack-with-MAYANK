@@ -1028,4 +1028,8 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0304-range-sum-query-2d-immutable) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
