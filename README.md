@@ -574,6 +574,7 @@
 | [0633-sum-of-square-numbers](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -861,6 +862,7 @@
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1669-merge-in-between-linked-lists](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1669-merge-in-between-linked-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Combinatorics
 |  |
@@ -886,6 +888,7 @@
 | [1019-next-greater-node-in-linked-list](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1019-next-greater-node-in-linked-list) |
 | [1544-make-the-string-great](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1544-make-the-string-great) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2211-count-collisions-on-a-road](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2211-count-collisions-on-a-road) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2816-double-a-number-represented-as-a-linked-list) |
