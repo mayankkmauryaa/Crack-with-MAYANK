@@ -489,6 +489,7 @@
 | [3207-make-three-strings-equal](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3207-make-three-strings-equal) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3606-coupon-code-validator](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3606-coupon-code-validator) |
+| [3612-process-string-with-special-operations-i](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3612-process-string-with-special-operations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3713-longest-balanced-substring-i) |
 | [3838-weighted-word-mapping](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3838-weighted-word-mapping) |
 ## Bit Manipulation
@@ -526,6 +527,7 @@
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3379-transformed-array) |
+| [3612-process-string-with-special-operations-i](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3612-process-string-with-special-operations-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3838-weighted-word-mapping](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3838-weighted-word-mapping) |
 ## Backtracking
