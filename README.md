@@ -1047,5 +1047,6 @@
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0176-second-highest-salary) |
+| [0177-nth-highest-salary](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0177-nth-highest-salary) |
 | [0627-swap-sex-of-employees](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
