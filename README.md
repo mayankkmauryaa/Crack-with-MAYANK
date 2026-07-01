@@ -1066,6 +1066,7 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0627-swap-sex-of-employees](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0627-swap-sex-of-employees) |
 | [1587-bank-account-summary-ii](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1587-bank-account-summary-ii) |
+| [1965-employees-with-missing-information](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1965-employees-with-missing-information) |
 ## Counting Sort
 |  |
 | ------- |
