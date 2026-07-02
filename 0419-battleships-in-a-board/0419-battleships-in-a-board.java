@@ -1,7 +1,6 @@
 class Solution {
-    private int count = 0;
-
     public int countBattleships(char[][] board) {
+        int count = 0;
         if (board == null || board.length == 0)
             return 0;
         for (int i = 0; i < board.length; i++) {
