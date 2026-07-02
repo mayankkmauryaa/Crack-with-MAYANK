@@ -167,6 +167,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0416-partition-equal-subset-sum) |
+| [0419-battleships-in-a-board](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0419-battleships-in-a-board) |
 | [0455-assign-cookies](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0496-next-greater-element-i) |
@@ -323,6 +324,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0304-range-sum-query-2d-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0419-battleships-in-a-board](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0419-battleships-in-a-board) |
 | [0542-01-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0733-flood-fill) |
@@ -675,6 +677,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0419-battleships-in-a-board](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0419-battleships-in-a-board) |
 | [0513-find-bottom-left-tree-value](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0513-find-bottom-left-tree-value) |
 | [0547-number-of-provinces](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0547-number-of-provinces) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0589-n-ary-tree-preorder-traversal) |
