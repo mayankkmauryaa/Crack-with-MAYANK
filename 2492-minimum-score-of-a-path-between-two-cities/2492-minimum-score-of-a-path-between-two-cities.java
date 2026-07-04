@@ -9,8 +9,13 @@ class Pair {
 }
 
 class Solution {
+    boolean vis[];
+    List<List<Pair>> adj;
+    int ans = Integer.MAX_VALUE;
+
     public int minScore(int n, int[][] roads) {
-        List<List<Pair>> adj = new ArrayList<>();
+        adj = new ArrayList<>();
+        vis = new boolean[n + 1];
         for (int i = 0; i <= n; i++) {
             adj.add(new ArrayList<>());
         }
@@ -23,21 +28,20 @@ class Solution {
             adj.get(v).add(new Pair(u, w));
         }
 
-        Queue<Integer> q = new LinkedList<>();
-        boolean vis[] = new boolean[n + 1];
-        q.add(1);
         vis[1] = true;
-        int ans = Integer.MAX_VALUE;
-        while (!q.isEmpty()) {
-            int node = q.poll();
-            for (Pair p : adj.get(node)) {
-                ans = Math.min(ans, p.y);
-                if (!vis[p.x]) {
-                    vis[p.x] = true;
-                    q.add(p.x);
-                }
+
+        dfs(1);
+        return ans;
+    }
+
+    public void dfs(int node) {
+        vis[node] = true;
+
+        for (Pair p : adj.get(node)) {
+            ans = Math.min(ans, p.y);
+            if (!vis[p.x]) {
+                dfs(p.x);
             }
         }
-        return ans;
     }
 }
