@@ -1,18 +1,13 @@
 class Solution {
     public int maxDigitRange(int[] nums) {
-        List<List<Integer>> list = new ArrayList<>();
-        for (int i = 0; i < 10; i++) {
-            list.add(new ArrayList<>());
-        }
         int max = 0;
         for (int num : nums) {
-            int r = range(num);
-            max = Math.max(r, max);
-            list.get(r).add(num);
+            max = Math.max(range(num), max);
         }
         int ans = 0;
-        for (int i = 0; i < list.get(max).size(); i++) {
-            ans += list.get(max).get(i);
+        for (int num : nums) {
+            if (range(num) == max)
+                ans += num;
         }
         return ans;
     }
