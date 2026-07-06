@@ -196,6 +196,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1266-minimum-time-visiting-all-points](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1266-minimum-time-visiting-all-points) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1288-remove-covered-intervals](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1288-remove-covered-intervals) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1390-four-divisors) |
 | [1395-count-number-of-teams](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1395-count-number-of-teams) |
@@ -641,6 +642,7 @@
 | [0692-top-k-frequent-words](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0692-top-k-frequent-words) |
 | [0726-number-of-atoms](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0726-number-of-atoms) |
 | [0808-number-of-matching-subsequences](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0808-number-of-matching-subsequences) |
+| [1288-remove-covered-intervals](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1288-remove-covered-intervals) |
 | [1552-magnetic-force-between-two-balls](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1552-magnetic-force-between-two-balls) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1675-magnetic-force-between-two-balls](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1675-magnetic-force-between-two-balls) |
