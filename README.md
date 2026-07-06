@@ -197,6 +197,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1266-minimum-time-visiting-all-points) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1288-remove-covered-intervals) |
+| [1310-xor-queries-of-a-subarray](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1310-xor-queries-of-a-subarray) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1390-four-divisors) |
 | [1395-count-number-of-teams](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1395-count-number-of-teams) |
@@ -523,6 +524,7 @@
 | [0401-binary-watch](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0401-binary-watch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1310-xor-queries-of-a-subarray](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1310-xor-queries-of-a-subarray) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Simulation
@@ -851,6 +853,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0304-range-sum-query-2d-immutable) |
 | [0528-random-pick-with-weight](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0560-subarray-sum-equals-k) |
+| [1310-xor-queries-of-a-subarray](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1310-xor-queries-of-a-subarray) |
 | [1480-running-sum-of-1d-array](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1732-find-the-highest-altitude) |
