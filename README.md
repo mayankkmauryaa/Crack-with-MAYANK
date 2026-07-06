@@ -244,6 +244,7 @@
 | [2540-minimum-common-value](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2706-buy-two-chocolates](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2733-neither-minimum-nor-maximum) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -343,6 +344,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1975-maximum-matrix-sum) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -706,6 +708,7 @@
 | [1971-find-if-path-exists-in-graph](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1971-find-if-path-exists-in-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -742,6 +745,7 @@
 | [1971-find-if-path-exists-in-graph](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1971-find-if-path-exists-in-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Graph
 |  |
 | ------- |
@@ -1055,6 +1059,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
