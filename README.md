@@ -275,6 +275,7 @@
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3838-weighted-word-mapping](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3838-weighted-word-mapping) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Binary Search
 |  |
 | ------- |
@@ -352,6 +353,7 @@
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3643-flip-square-submatrix-vertically) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
@@ -1077,6 +1079,7 @@
 | [1971-find-if-path-exists-in-graph](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3613-minimize-maximum-component-cost](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3613-minimize-maximum-component-cost) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Design
 |  |
 | ------- |
