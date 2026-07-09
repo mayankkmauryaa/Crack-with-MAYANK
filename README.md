@@ -262,6 +262,7 @@
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3546-equal-sum-grid-partition-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3606-coupon-code-validator](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3606-coupon-code-validator) |
@@ -314,6 +315,7 @@
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2540-minimum-common-value) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3613-minimize-maximum-component-cost](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3613-minimize-maximum-component-cost) |
 ## Matrix
 |  |
@@ -399,6 +401,7 @@
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3606-coupon-code-validator](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3719-longest-balanced-subarray-i) |
@@ -1065,6 +1068,7 @@
 | [1971-find-if-path-exists-in-graph](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3613-minimize-maximum-component-cost](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3613-minimize-maximum-component-cost) |
 ## Graph Theory
 |  |
@@ -1078,6 +1082,7 @@
 | [0886-possible-bipartition](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0886-possible-bipartition) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3613-minimize-maximum-component-cost](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3613-minimize-maximum-component-cost) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Design
