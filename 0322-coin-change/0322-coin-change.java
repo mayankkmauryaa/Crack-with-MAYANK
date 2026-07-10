@@ -1,12 +1,34 @@
 class Solution {
     public int coinChange(int[] coins, int amount) {
-        int[] dp = new int[amount + 1];
-        Arrays.fill(dp, 1, dp.length, amount + 1);
+        int arr[] = new int[amount + 1];
+        for (int i = 0; i <= amount; i++) {
+            arr[i] = amount + 1;
+        }
+        arr[0] = 0;
 
-        for (final int coin : coins)
-            for (int i = coin; i <= amount; ++i)
-                dp[i] = Math.min(dp[i], dp[i - coin] + 1);
-
-        return dp[amount] == amount + 1 ? -1 : dp[amount];
+        for (int coin : coins) {
+            for (int i = coin; i <= amount; i++) {
+                arr[i] = Math.min(arr[i], 1 + arr[i - coin]);
+            }
+        }
+        if (arr[amount] > amount)
+            return -1;
+        else {
+            return arr[amount];
+        }
     }
+}
+
+class Solution_DP {
+  public int coinChange(int[] coins, int amount) {
+    // dp[i] := fewest # of coins to make up i
+    int[] dp = new int[amount + 1];
+    Arrays.fill(dp, 1, dp.length, amount + 1);
+
+    for (final int coin : coins)
+      for (int i = coin; i <= amount; ++i)
+        dp[i] = Math.min(dp[i], dp[i - coin] + 1);
+
+    return dp[amount] == amount + 1 ? -1 : dp[amount];
+  }
 }
