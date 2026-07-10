@@ -1074,6 +1074,7 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0133-clone-graph) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0785-is-graph-bipartite) |
