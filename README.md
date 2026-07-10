@@ -163,6 +163,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0304-range-sum-query-2d-immutable) |
+| [0322-coin-change](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0349-intersection-of-two-arrays](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0414-third-maximum-number) |
@@ -728,6 +729,7 @@
 | [0133-clone-graph](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0513-find-bottom-left-tree-value) |
@@ -790,6 +792,7 @@
 | [0152-maximum-product-subarray](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0392-is-subsequence](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0416-partition-equal-subset-sum) |
