@@ -1,25 +1,20 @@
 class Solution {
     public int[] arrayRankTransform(int[] arr) {
-        ArrayList<Integer> uniqueArr = new ArrayList<>();
-        HashMap<Integer, Integer> numRankMap = new HashMap<>();
-
-        for (int num : arr) {
-            if (!numRankMap.containsKey(num)) {
-                uniqueArr.add(num);
-                numRankMap.put(num, 0);
+        HashMap<Integer, Integer> map = new HashMap<>();
+        int[] nums = new int[arr.length];
+        for (int i = 0; i < arr.length; i++) {
+            nums[i] = arr[i];
+        }
+        Arrays.sort(nums);
+        int ind = 1;
+        for (int i = 0; i < nums.length; i++) {
+            if (!map.containsKey(nums[i])) {
+                map.put(nums[i], ind++);
             }
         }
-
-        Collections.sort(uniqueArr);
-
-        for (int i = 0; i < uniqueArr.size(); i++) {
-            numRankMap.put(uniqueArr.get(i), i + 1);
-        }
-
         for (int i = 0; i < arr.length; i++) {
-            arr[i] = numRankMap.get(arr[i]);
+            nums[i] = map.get(arr[i]);
         }
-
-        return arr;
+        return nums;
     }
 }
