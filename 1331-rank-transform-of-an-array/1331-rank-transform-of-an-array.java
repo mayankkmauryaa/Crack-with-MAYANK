@@ -1,13 +1,17 @@
 class Solution {
     public int[] arrayRankTransform(int[] arr) {
-         
-        Map<Integer, Integer> rank = new HashMap<>(); 
-        int[] unique = Arrays.stream(arr).distinct().sorted().toArray();
-        for (int i = 0; i < unique.length; i++) {
-            rank.put(unique[i], i + 1);
+        int[] clone = arr.clone();
+        Arrays.sort(clone);
+        Map<Integer, Integer> ranks = new HashMap<>();
+        int rank = 1;
+        for (int x : clone) {
+            if (!ranks.containsKey(x)) {
+                ranks.put(x, rank);
+                rank++;
+            }
         }
         for (int i = 0; i < arr.length; i++) {
-            arr[i] = rank.get(arr[i]);
+            arr[i] = ranks.get(arr[i]);
         }
         return arr;
     }
