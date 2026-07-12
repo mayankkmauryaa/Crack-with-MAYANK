@@ -1,18 +1,25 @@
 class Solution {
     public int[] arrayRankTransform(int[] arr) {
-        int[] clone = arr.clone();
-        Arrays.sort(clone);
-        Map<Integer, Integer> ranks = new HashMap<>();
-        int rank = 1;
-        for (int x : clone) {
-            if (!ranks.containsKey(x)) {
-                ranks.put(x, rank);
-                rank++;
+        ArrayList<Integer> uniqueArr = new ArrayList<>();
+        HashMap<Integer, Integer> numRankMap = new HashMap<>();
+
+        for (int num : arr) {
+            if (!numRankMap.containsKey(num)) {
+                uniqueArr.add(num);
+                numRankMap.put(num, 0);
             }
         }
-        for (int i = 0; i < arr.length; i++) {
-            arr[i] = ranks.get(arr[i]);
+
+        Collections.sort(uniqueArr);
+
+        for (int i = 0; i < uniqueArr.size(); i++) {
+            numRankMap.put(uniqueArr.get(i), i + 1);
         }
+
+        for (int i = 0; i < arr.length; i++) {
+            arr[i] = numRankMap.get(arr[i]);
+        }
+
         return arr;
     }
 }
