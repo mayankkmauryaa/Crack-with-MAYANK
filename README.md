@@ -533,6 +533,7 @@
 | [0067-add-binary](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0260-single-number-iii) |
@@ -975,6 +976,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0240-search-a-2d-matrix-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1382-balance-a-binary-search-tree) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3653-xor-after-range-multiplication-queries-i) |
