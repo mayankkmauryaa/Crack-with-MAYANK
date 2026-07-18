@@ -228,6 +228,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1975-maximum-matrix-sum) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1980-find-unique-binary-string) |
 | [2073-time-needed-to-buy-tickets](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2073-time-needed-to-buy-tickets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -449,6 +450,7 @@
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1922-count-good-numbers) |
 | [1925-count-square-sum-triples](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1925-count-square-sum-triples) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -1005,6 +1007,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Segment Tree
