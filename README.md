@@ -131,6 +131,7 @@
 | [0054-spiral-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0074-search-a-2d-matrix) |
@@ -331,6 +332,7 @@
 | [0036-valid-sudoku](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0079-word-search) |
@@ -555,6 +557,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0657-robot-return-to-origin) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1823-find-the-winner-of-the-circular-game) |
