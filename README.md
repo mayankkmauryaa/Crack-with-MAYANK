@@ -179,6 +179,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0704-binary-search) |
@@ -440,6 +441,7 @@
 | [0319-bulb-switcher](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0342-power-of-four) |
 | [0528-random-pick-with-weight](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0528-random-pick-with-weight) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0633-sum-of-square-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1013-fibonacci-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1013-fibonacci-number) |
@@ -672,6 +674,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0692-top-k-frequent-words) |
 | [0726-number-of-atoms](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0726-number-of-atoms) |
 | [0808-number-of-matching-subsequences](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0808-number-of-matching-subsequences) |
