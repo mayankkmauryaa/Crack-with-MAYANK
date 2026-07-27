@@ -1,4 +1,4 @@
-class Solution {
+class Solution_brute {
     public int maxProduct(int[] nums) {
         int n = nums.length;
         int max = 0;
@@ -6,5 +6,13 @@ class Solution {
             for (int j = i + 1; j < n; j++)
                 max = Math.max((nums[i] - 1) * (nums[j] - 1), max);
         return max;
+    }
+}
+
+class Solution {
+    public int maxProduct(int[] nums) {
+        int n = nums.length;
+        Arrays.sort(nums);
+        return (nums[n - 1] - 1) * (nums[n - 2] - 1);
     }
 }
