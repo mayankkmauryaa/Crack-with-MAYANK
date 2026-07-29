@@ -1155,6 +1155,7 @@
 | [0627-swap-sex-of-employees](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0627-swap-sex-of-employees) |
 | [1587-bank-account-summary-ii](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1587-bank-account-summary-ii) |
 | [1965-employees-with-missing-information](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1965-employees-with-missing-information) |
+| [3436-find-valid-emails](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3436-find-valid-emails) |
 ## Counting Sort
 |  |
 | ------- |
