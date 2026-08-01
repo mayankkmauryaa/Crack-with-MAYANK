@@ -173,6 +173,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0419-battleships-in-a-board) |
 | [0455-assign-cookies](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0496-next-greater-element-i) |
 | [0528-random-pick-with-weight](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0528-random-pick-with-weight) |
@@ -442,6 +443,7 @@
 | [0268-missing-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0486-predict-the-winner) |
 | [0528-random-pick-with-weight](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0528-random-pick-with-weight) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0633-sum-of-square-numbers) |
@@ -834,6 +836,7 @@
 | [0377-combination-sum-iv](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0542-01-matrix) |
@@ -889,6 +892,7 @@
 | [0231-power-of-two](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1013-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1922-count-good-numbers) |
@@ -1160,4 +1164,8 @@
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1833-maximum-ice-cream-bars) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
