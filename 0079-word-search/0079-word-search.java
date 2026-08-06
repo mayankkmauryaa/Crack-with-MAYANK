@@ -6,9 +6,9 @@ class Solution {
         m = board.length;
         n = board[0].length;
         for (int i = 0; i < m; i++)
-            for (int j = 0; j < n; j++)
-                if (dfs(i, j, board, word, 0)) 
-                    return true;
+            for (int j = 0; j < n; j++) {
+                if (board[i][j] != '.' && dfs(i, j, board, word, 0)) return true;
+            }
         return false;
     }
 
@@ -19,7 +19,7 @@ class Solution {
         char temp = board[x][y];
         board[x][y] = '.';
         for (int i = -1; i <= 1; i++)
-            for (int j = -1; j <= 1; j++) 
+            for (int j = -1; j <= 1; j++)
                 if (Math.abs(i + j) == 1) {
                     int nx = x + i;
                     int ny = y + j;
