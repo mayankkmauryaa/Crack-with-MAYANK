@@ -531,6 +531,7 @@
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2211-count-collisions-on-a-road](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2211-count-collisions-on-a-road) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -664,6 +665,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2195-append-k-integers-with-minimal-sum) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2706-buy-two-chocolates](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2706-buy-two-chocolates) |
 | [3074-apple-redistribution-into-boxes](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3074-apple-redistribution-into-boxes) |
