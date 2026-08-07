@@ -397,6 +397,7 @@
 | [0268-missing-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0409-longest-palindrome) |
+| [0460-lfu-cache](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -958,6 +959,7 @@
 | [0234-palindrome-linked-list](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0328-odd-even-linked-list) |
+| [0460-lfu-cache](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0460-lfu-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -1163,6 +1165,7 @@
 | [0146-lru-cache](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0304-range-sum-query-2d-immutable) |
+| [0460-lfu-cache](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0460-lfu-cache) |
 ## Database
 |  |
 | ------- |
@@ -1189,4 +1192,5 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
