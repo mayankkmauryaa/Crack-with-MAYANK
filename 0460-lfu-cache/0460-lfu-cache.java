@@ -45,12 +45,12 @@ class LFUCache {
     }
 
     private int cap, minFreq;
-    private HashMap<Integer, DoublyLL> freqMap;
+    private HashMap<Integer, DoublyLL> cache;
     private HashMap<Integer, Node> keyMap;
 
     public LFUCache(int capacity) {
         this.cap = capacity;
-        freqMap = new HashMap<>();
+        cache = new HashMap<>();
         keyMap = new HashMap<>();
     }
 
@@ -71,31 +71,31 @@ class LFUCache {
             updateFreq(node);
         } else {
             if (cap == keyMap.size()) {
-                DoublyLL list = freqMap.get(minFreq);
+                DoublyLL list = cache.get(minFreq);
                 Node last = list.removeLast();
                 keyMap.remove(last.key);
             }
             Node newNode = new Node(key, value);
             keyMap.put(key, newNode);
-            // freqMap.computeIfAbsent(1, k -> new DoubleLL()).add(newNode);
-            if (!freqMap.containsKey(1))
-                freqMap.put(1, new DoublyLL());
-            freqMap.get(1).add(newNode);
+            // cache.computeIfAbsent(1, k -> new DoubleLL()).add(newNode);
+            if (!cache.containsKey(1))
+                cache.put(1, new DoublyLL());
+            cache.get(1).add(newNode);
             minFreq = 1;
         }
     }
 
     public void updateFreq(Node node) {
         int oldF = node.freq;
-        DoublyLL oldL = freqMap.get(oldF);
+        DoublyLL oldL = cache.get(oldF);
         oldL.remove(node);
         if (oldF == minFreq && oldL.size == 0)
             minFreq++;
         node.freq++;
-        // freqMap.computeIfAbsent(node.freq, k -> new DoublyLL()).add(node);
-        if(!freqMap.containsKey(node.freq))
-            freqMap.put(node.freq, new DoublyLL());
-        freqMap.get(node.freq).add(node);
+        // cache.computeIfAbsent(node.freq, k -> new DoublyLL()).add(node);
+        if(!cache.containsKey(node.freq))
+            cache.put(node.freq, new DoublyLL());
+        cache.get(node.freq).add(node);
     }
 }
 
