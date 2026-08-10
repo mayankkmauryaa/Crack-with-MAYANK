@@ -1193,4 +1193,12 @@
 | ------- |
 | [0146-lru-cache](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0460-lfu-cache) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
