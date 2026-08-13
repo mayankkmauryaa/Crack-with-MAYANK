@@ -210,6 +210,7 @@
 | [1390-four-divisors](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1390-four-divisors) |
 | [1395-count-number-of-teams](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1395-count-number-of-teams) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1472-design-browser-history](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1539-kth-missing-positive-number) |
@@ -969,6 +970,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1472-design-browser-history](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1472-design-browser-history) |
 | [1669-merge-in-between-linked-lists](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1669-merge-in-between-linked-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -996,6 +998,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0907-sum-of-subarray-minimums) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1019-next-greater-node-in-linked-list) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1472-design-browser-history](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1472-design-browser-history) |
 | [1544-make-the-string-great](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -1172,6 +1175,7 @@
 | [0303-range-sum-query-immutable](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0304-range-sum-query-2d-immutable) |
 | [0460-lfu-cache](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0460-lfu-cache) |
+| [1472-design-browser-history](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1472-design-browser-history) |
 ## Database
 |  |
 | ------- |
@@ -1199,6 +1203,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0460-lfu-cache) |
+| [1472-design-browser-history](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1472-design-browser-history) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -1207,4 +1212,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0322-coin-change) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
