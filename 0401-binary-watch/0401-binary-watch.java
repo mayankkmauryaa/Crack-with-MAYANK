@@ -5,10 +5,8 @@ class Solution {
             for (int m = 0; m < 60; m++) {
                 int t = Integer.bitCount(h) + Integer.bitCount(m);
                 if (t == turnedOn) {
-                    if (m < 10)
-                        ans.add(h + ":0" + m);
-                    else
-                        ans.add(h + ":" + m);
+                    if (m < 10) ans.add(h + ":0" + m);
+                    else ans.add(h + ":" + m);
                 }
             }
         }
