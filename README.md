@@ -991,6 +991,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0496-next-greater-element-i) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -1173,6 +1174,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0304-range-sum-query-2d-immutable) |
 | [0460-lfu-cache](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0460-lfu-cache) |
