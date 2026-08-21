@@ -18,7 +18,7 @@ class Solution {
     private void dfs(int[][] isConnected, int idx) {
         vis[idx] = true;
         for (int i = 0; i < n; i++) {
-            if (!vis[i] && isConnected[idx][i] == 1) {
+            if (!vis[i] && isConnected[i][idx] == 1) {
                 dfs(isConnected, i);
             }
         }
