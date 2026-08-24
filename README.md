@@ -230,6 +230,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1872-stone-game-viii](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1872-stone-game-viii) |
 | [1876-map-of-highest-peak](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1876-map-of-highest-peak) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -469,6 +470,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1872-stone-game-viii](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1872-stone-game-viii) |
 | [1922-count-good-numbers](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1922-count-good-numbers) |
 | [1925-count-square-sum-triples](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1925-count-square-sum-triples) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -875,6 +877,7 @@
 | [1236-n-th-tribonacci-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1250-longest-common-subsequence) |
 | [1395-count-number-of-teams](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1395-count-number-of-teams) |
+| [1872-stone-game-viii](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1872-stone-game-viii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Trie
@@ -939,6 +942,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1872-stone-game-viii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2906-construct-product-matrix](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2906-construct-product-matrix) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -1203,6 +1207,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0486-predict-the-winner) |
+| [1872-stone-game-viii](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1872-stone-game-viii) |
 ## Interactive
 |  |
 | ------- |
@@ -1229,4 +1234,12 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0005-longest-palindromic-substring) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
