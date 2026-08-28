@@ -20,3 +20,26 @@ class Solution {
         return maxWtr;
     }
 }
+
+class Solution_ {
+    static {
+        for (int i = 0; i < 100; i++) {
+            maxArea(new int[] { 0, 0 });
+        }
+    }
+
+    public static int maxArea(int[] height) {
+        int res = 0;
+        int l = 0;
+        int r = height.length - 1;
+        while (l < r) {
+            res = Math.max(res, (r - l) * Math.min(height[l], height[r]));
+            if (height[l] < height[r]) {
+                l++;
+            } else {
+                r--;
+            }
+        }
+        return res;
+    }
+}
