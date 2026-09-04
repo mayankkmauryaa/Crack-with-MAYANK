@@ -296,6 +296,7 @@
 | [3838-weighted-word-mapping](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3875-construct-uniform-parity-array-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3903-smallest-stable-index-i](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -958,6 +959,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3546-equal-sum-grid-partition-i](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3546-equal-sum-grid-partition-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3719-longest-balanced-subarray-i) |
+| [3903-smallest-stable-index-i](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3903-smallest-stable-index-i) |
 ## Randomized
 |  |
 | ------- |
