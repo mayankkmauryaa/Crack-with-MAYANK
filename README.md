@@ -474,6 +474,7 @@
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1390-four-divisors) |
+| [1486-xor-operation-in-an-array](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -589,6 +590,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1310-xor-queries-of-a-subarray](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1310-xor-queries-of-a-subarray) |
+| [1486-xor-operation-in-an-array](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1486-xor-operation-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Simulation
