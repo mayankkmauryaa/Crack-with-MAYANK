@@ -498,6 +498,7 @@
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3783-mirror-distance-of-an-integer](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3783-mirror-distance-of-an-integer) |
+| [3870-count-commas-in-range](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
