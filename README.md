@@ -789,6 +789,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1971-find-if-path-exists-in-graph) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -1133,6 +1134,7 @@
 | [1376-time-needed-to-inform-all-employees](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1382-balance-a-binary-search-tree](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1382-balance-a-binary-search-tree) |
 | [1609-even-odd-tree](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1609-even-odd-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -1157,6 +1159,7 @@
 | [1325-delete-leaves-with-a-given-value](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1382-balance-a-binary-search-tree) |
 | [1609-even-odd-tree](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1609-even-odd-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
 |  |
