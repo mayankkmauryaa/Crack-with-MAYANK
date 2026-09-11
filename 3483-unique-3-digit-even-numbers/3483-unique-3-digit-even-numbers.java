@@ -1,7 +1,7 @@
 class Solution {
     public int totalNumbers(int[] digits) {
         int[] freq = new int[10];
-        int res = 0;
+        int ans = 0;
 
         for (int d : digits)
             freq[d]++;
@@ -14,13 +14,13 @@ class Solution {
                     freq[k]--;
 
                     if (freq[i] >= 0 && freq[j] >= 0 && freq[k] >= 0)
-                        res++;
+                        ans++;
 
                     freq[i]++;
                     freq[j]++;
                     freq[k]++;
                 }
 
-        return res;
+        return ans;
     }
 }
