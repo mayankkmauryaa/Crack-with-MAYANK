@@ -471,6 +471,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0633-sum-of-square-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0836-rectangle-overlap](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0836-rectangle-overlap) |
 | [1013-fibonacci-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1236-n-th-tribonacci-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1236-n-th-tribonacci-number) |
@@ -1085,6 +1086,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1266-minimum-time-visiting-all-points) |
 ## String Matching
 |  |
