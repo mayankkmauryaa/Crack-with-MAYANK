@@ -150,6 +150,7 @@
 | [0130-surrounded-regions](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0162-find-peak-element) |
@@ -458,6 +459,7 @@
 | [0066-plus-one](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0096-unique-binary-search-trees) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0263-ugly-number) |
@@ -1027,6 +1029,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0496-next-greater-element-i) |
