@@ -458,6 +458,7 @@
 | [0062-unique-paths](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0204-count-primes) |
@@ -873,6 +874,7 @@
 | [0053-maximum-subarray](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0118-pascals-triangle) |
@@ -952,6 +954,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0070-climbing-stairs) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1013-fibonacci-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1236-n-th-tribonacci-number) |
