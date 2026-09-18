@@ -1236,6 +1236,7 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0196-delete-duplicate-emails](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0196-delete-duplicate-emails) |
 | [0627-swap-sex-of-employees](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0627-swap-sex-of-employees) |
+| [1193-monthly-transactions-i](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1193-monthly-transactions-i) |
 | [1587-bank-account-summary-ii](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1587-bank-account-summary-ii) |
 | [1965-employees-with-missing-information](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1965-employees-with-missing-information) |
 | [3436-find-valid-emails](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3436-find-valid-emails) |
