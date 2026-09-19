@@ -201,6 +201,7 @@
 | [1018-binary-prefix-divisible-by-5](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1019-next-greater-node-in-linked-list) |
 | [1020-number-of-enclaves](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1020-number-of-enclaves) |
+| [1030-matrix-cells-in-distance-order](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1030-matrix-cells-in-distance-order) |
 | [1036-rotting-oranges](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1036-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1260-shift-2d-grid) |
@@ -368,6 +369,7 @@
 | [0733-flood-fill](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1020-number-of-enclaves) |
+| [1030-matrix-cells-in-distance-order](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1030-matrix-cells-in-distance-order) |
 | [1036-rotting-oranges](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1036-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1260-shift-2d-grid) |
@@ -477,6 +479,7 @@
 | [0836-rectangle-overlap](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0836-rectangle-overlap) |
 | [1013-fibonacci-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1030-matrix-cells-in-distance-order](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1030-matrix-cells-in-distance-order) |
 | [1236-n-th-tribonacci-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1236-n-th-tribonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1266-minimum-time-visiting-all-points) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -732,6 +735,7 @@
 | [0692-top-k-frequent-words](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0692-top-k-frequent-words) |
 | [0726-number-of-atoms](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0726-number-of-atoms) |
 | [0808-number-of-matching-subsequences](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0808-number-of-matching-subsequences) |
+| [1030-matrix-cells-in-distance-order](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1030-matrix-cells-in-distance-order) |
 | [1288-remove-covered-intervals](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -1094,6 +1098,7 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0836-rectangle-overlap) |
+| [1030-matrix-cells-in-distance-order](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1030-matrix-cells-in-distance-order) |
 | [1266-minimum-time-visiting-all-points](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1266-minimum-time-visiting-all-points) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1401-circle-and-rectangle-overlapping) |
 ## String Matching
