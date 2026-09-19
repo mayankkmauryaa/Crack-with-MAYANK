@@ -567,6 +567,7 @@
 | [2075-decode-the-slanted-ciphertext](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 | [2211-count-collisions-on-a-road](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2211-count-collisions-on-a-road) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
