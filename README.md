@@ -482,6 +482,7 @@
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1390-four-divisors) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1486-xor-operation-in-an-array](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -1094,6 +1095,7 @@
 | ------- |
 | [0836-rectangle-overlap](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1266-minimum-time-visiting-all-points) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1401-circle-and-rectangle-overlapping) |
 ## String Matching
 |  |
 | ------- |
