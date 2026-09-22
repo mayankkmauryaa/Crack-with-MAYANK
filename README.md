@@ -171,6 +171,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0349-intersection-of-two-arrays](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0349-intersection-of-two-arrays) |
 | [0377-combination-sum-iv](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0377-combination-sum-iv) |
+| [0403-frog-jump](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0403-frog-jump) |
 | [0414-third-maximum-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0419-battleships-in-a-board) |
@@ -896,6 +897,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0377-combination-sum-iv](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0392-is-subsequence) |
+| [0403-frog-jump](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0494-target-sum) |
