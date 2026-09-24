@@ -1,12 +1,10 @@
 class Solution {
     public int smallestIndex(int[] nums) {
         for (int i = 0; i < nums.length; i++) {
-            int x = nums[i];
             int sum = 0;
-            while (x > 0) {
-                sum += x % 10;
-                x /= 10;
-            }
+            String s = "" + nums[i];
+            for (int j = 0; j < s.length(); j++)
+                sum += s.charAt(j) - '0';
             if (sum == i) return i;
         }
         return -1;
