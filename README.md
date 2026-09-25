@@ -1248,6 +1248,7 @@
 | [0176-second-highest-salary](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0177-nth-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0185-department-top-three-salaries](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0196-delete-duplicate-emails) |
 | [0627-swap-sex-of-employees](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0627-swap-sex-of-employees) |
 | [1193-monthly-transactions-i](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1193-monthly-transactions-i) |
