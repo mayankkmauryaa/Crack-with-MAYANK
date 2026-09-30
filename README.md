@@ -568,6 +568,7 @@
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1980-find-unique-binary-string) |
+| [2000-reverse-prefix-of-word](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2000-reverse-prefix-of-word) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2186-count-vowel-substrings-of-a-string) |
@@ -689,6 +690,7 @@
 | [0633-sum-of-square-numbers](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0876-middle-of-the-linked-list) |
+| [2000-reverse-prefix-of-word](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -1061,6 +1063,7 @@
 | [1544-make-the-string-great](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2000-reverse-prefix-of-word](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2211-count-collisions-on-a-road](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2211-count-collisions-on-a-road) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2696-minimum-string-length-after-removing-substrings) |
