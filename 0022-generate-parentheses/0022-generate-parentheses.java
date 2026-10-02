@@ -1,17 +1,26 @@
 class Solution {
     List<String> ans = new ArrayList<String>();
+
     public List<String> generateParenthesis(int n) {
-        generate(0, 0, "", n);
+        generate(0, 0, new StringBuilder(), n);
         return ans;
     }
 
-    public void generate(int opn, int cls, String s, int n) {
+    public void generate(int opn, int cls, StringBuilder s, int n) {
         if (opn == n && cls == n) {
-            ans.add(s);
+            ans.add(s.toString());
             return;
         }
-        if (opn < n) generate(opn + 1, cls, s + "(", n);
-        if (cls < opn) generate(opn, cls + 1, s + ")", n);
+        if (opn < n) {
+            s.append('(');
+            generate(opn + 1, cls, s, n);
+            s.deleteCharAt(s.length() - 1);
+        }
+        if (cls < opn) {
+            s.append(')');
+            generate(opn, cls + 1, s, n);
+            s.deleteCharAt(s.length() - 1);
+        }
     }
 }
 
