@@ -9,8 +9,10 @@ class Solution {
                 st.push(i);
             else {
                 st.pop();
-                if (st.isEmpty()) st.push(i);
-                else maxLen = Math.max(maxLen, i - st.peek());
+                if (st.isEmpty())
+                    st.push(i);
+                else
+                    maxLen = Math.max(maxLen, i - st.peek());
             }
         }
         return maxLen;
