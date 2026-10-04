@@ -545,6 +545,7 @@
 | [0520-detect-capital](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0520-detect-capital) |
 | [0583-delete-operation-for-two-strings](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0583-delete-operation-for-two-strings) |
 | [0657-robot-return-to-origin](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0692-top-k-frequent-words) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0726-number-of-atoms](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0726-number-of-atoms) |
@@ -709,6 +710,7 @@
 | [0134-gas-station](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0678-valid-parenthesis-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1382-balance-a-binary-search-tree) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -910,6 +912,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0799-champagne-tower) |
 | [0808-number-of-matching-subsequences](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0808-number-of-matching-subsequences) |
@@ -1055,6 +1058,7 @@
 | [0496-next-greater-element-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0496-next-greater-element-i) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0678-valid-parenthesis-string) |
 | [0726-number-of-atoms](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0726-number-of-atoms) |
 | [0739-daily-temperatures](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0907-sum-of-subarray-minimums) |
@@ -1311,6 +1315,7 @@
 | [0020-valid-parentheses](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
