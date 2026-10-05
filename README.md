@@ -543,6 +543,7 @@
 | [0504-base-7](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0504-base-7) |
 | [0516-longest-palindromic-subsequence](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0520-detect-capital) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0583-delete-operation-for-two-strings](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0583-delete-operation-for-two-strings) |
 | [0657-robot-return-to-origin](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0678-valid-parenthesis-string) |
