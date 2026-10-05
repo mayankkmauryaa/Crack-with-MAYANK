@@ -551,6 +551,7 @@
 | [0726-number-of-atoms](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0726-number-of-atoms) |
 | [0796-rotate-string](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0796-rotate-string) |
 | [0808-number-of-matching-subsequences](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0808-number-of-matching-subsequences) |
+| [0856-score-of-parentheses](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0856-score-of-parentheses) |
 | [0944-delete-columns-to-make-sorted](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0944-delete-columns-to-make-sorted) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -1061,6 +1062,7 @@
 | [0678-valid-parenthesis-string](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0678-valid-parenthesis-string) |
 | [0726-number-of-atoms](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0726-number-of-atoms) |
 | [0739-daily-temperatures](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0856-score-of-parentheses) |
 | [0907-sum-of-subarray-minimums](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0907-sum-of-subarray-minimums) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1019-next-greater-node-in-linked-list) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -1316,6 +1318,7 @@
 | [0022-generate-parentheses](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
