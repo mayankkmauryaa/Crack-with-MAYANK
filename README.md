@@ -553,6 +553,7 @@
 | [0796-rotate-string](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0796-rotate-string) |
 | [0808-number-of-matching-subsequences](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0808-number-of-matching-subsequences) |
 | [0856-score-of-parentheses](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0944-delete-columns-to-make-sorted) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -713,6 +714,7 @@
 | [0409-longest-palindrome](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1382-balance-a-binary-search-tree](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1382-balance-a-binary-search-tree) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -1065,6 +1067,7 @@
 | [0739-daily-temperatures](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0856-score-of-parentheses) |
 | [0907-sum-of-subarray-minimums](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1019-next-greater-node-in-linked-list) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -1320,6 +1323,7 @@
 | [0032-longest-valid-parentheses](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
