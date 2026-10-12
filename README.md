@@ -267,6 +267,7 @@
 | [2706-buy-two-chocolates](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2733-neither-minimum-nor-maximum) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2784-check-if-array-is-good) |
 | [2906-construct-product-matrix](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -1095,6 +1096,7 @@
 | [1291-sequential-digits](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1291-sequential-digits) |
 | [1925-count-square-sum-triples](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1925-count-square-sum-triples) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3483-unique-3-digit-even-numbers) |
