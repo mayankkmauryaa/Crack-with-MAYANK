@@ -271,6 +271,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2784-check-if-array-is-good) |
 | [2906-construct-product-matrix](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2906-construct-product-matrix) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -443,6 +444,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -1157,11 +1159,13 @@
 |  |
 | ------- |
 | [1395-count-number-of-teams](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1395-count-number-of-teams) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
 | [1395-count-number-of-teams](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1395-count-number-of-teams) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Queue
 |  |
 | ------- |
