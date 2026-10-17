@@ -256,6 +256,7 @@
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -349,6 +350,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2540-minimum-common-value) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -891,6 +893,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1652-defuse-the-bomb](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -1009,6 +1012,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1872-stone-game-viii) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2906-construct-product-matrix](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2906-construct-product-matrix) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
