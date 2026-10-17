@@ -255,6 +255,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2195-append-k-integers-with-minimal-sum) |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -507,6 +508,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2195-append-k-integers-with-minimal-sum) |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2409-count-days-spent-together](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2409-count-days-spent-together) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -1097,6 +1099,7 @@
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2211-count-collisions-on-a-road](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2211-count-collisions-on-a-road) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -1156,6 +1159,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
@@ -1351,4 +1355,12 @@
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Least Common Multiple
+|  |
+| ------- |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2197-replace-non-coprime-numbers-in-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2197-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
