@@ -496,6 +496,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1266-minimum-time-visiting-all-points) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1360-number-of-days-between-two-dates](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1360-number-of-days-between-two-dates) |
 | [1390-four-divisors](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1390-four-divisors) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1486-xor-operation-in-an-array](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1486-xor-operation-in-an-array) |
@@ -576,6 +577,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1250-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1360-number-of-days-between-two-dates](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1360-number-of-days-between-two-dates) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1544-make-the-string-great](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
