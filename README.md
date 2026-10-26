@@ -298,6 +298,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3606-coupon-code-validator](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3606-coupon-code-validator) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3634-minimum-removals-to-balance-array](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3643-flip-square-submatrix-vertically) |
@@ -401,6 +402,7 @@
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3546-equal-sum-grid-partition-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3643-flip-square-submatrix-vertically) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
@@ -847,6 +849,7 @@
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2685-count-the-number-of-complete-components) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -889,6 +892,7 @@
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2685-count-the-number-of-complete-components) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph
 |  |
 | ------- |
@@ -1267,6 +1271,7 @@
 | [2685-count-the-number-of-complete-components](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3613-minimize-maximum-component-cost](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3613-minimize-maximum-component-cost) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
