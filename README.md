@@ -232,6 +232,7 @@
 | [1652-defuse-the-bomb](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1675-magnetic-force-between-two-balls](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1675-magnetic-force-between-two-balls) |
+| [1720-decode-xored-array](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1720-decode-xored-array) |
 | [1732-find-the-highest-altitude](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -637,6 +638,7 @@
 | [1018-binary-prefix-divisible-by-5](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1310-xor-queries-of-a-subarray](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1310-xor-queries-of-a-subarray) |
 | [1486-xor-operation-in-an-array](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1486-xor-operation-in-an-array) |
+| [1720-decode-xored-array](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1720-decode-xored-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3644-maximum-k-to-sort-a-permutation) |
