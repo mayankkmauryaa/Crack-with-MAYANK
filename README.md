@@ -311,6 +311,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3838-weighted-word-mapping](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3838-weighted-word-mapping) |
@@ -537,6 +538,7 @@
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3783-mirror-distance-of-an-integer](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3783-mirror-distance-of-an-integer) |
