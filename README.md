@@ -311,6 +311,7 @@
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3689-maximum-total-subarray-value-i) |
+| [3693-climbing-stairs-ii](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3731-find-missing-elements) |
@@ -984,6 +985,7 @@
 | [1872-stone-game-viii](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1872-stone-game-viii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3693-climbing-stairs-ii](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Trie
 |  |
