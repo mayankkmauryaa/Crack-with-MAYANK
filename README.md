@@ -190,6 +190,7 @@
 | [0692-top-k-frequent-words](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -1055,6 +1056,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0304-range-sum-query-2d-immutable) |
 | [0528-random-pick-with-weight](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0724-find-pivot-index) |
 | [1310-xor-queries-of-a-subarray](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1310-xor-queries-of-a-subarray) |
 | [1480-running-sum-of-1d-array](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1588-sum-of-all-odd-length-subarrays) |
