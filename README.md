@@ -548,6 +548,7 @@
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3783-mirror-distance-of-an-integer](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3783-mirror-distance-of-an-integer) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
@@ -777,6 +778,7 @@
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3689-maximum-total-subarray-value-i](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3689-maximum-total-subarray-value-i) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Sorting
 |  |
 | ------- |
