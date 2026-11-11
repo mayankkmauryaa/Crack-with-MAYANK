@@ -532,6 +532,7 @@
 | [2195-append-k-integers-with-minimal-sum](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2409-count-days-spent-together](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2409-count-days-spent-together) |
+| [2544-alternating-digit-sum](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2544-alternating-digit-sum) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3232-find-if-digit-game-can-be-won) |
