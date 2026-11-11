@@ -494,6 +494,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0319-bulb-switcher) |
@@ -664,6 +665,7 @@
 | [0054-spiral-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0657-robot-return-to-origin) |
 | [1260-shift-2d-grid](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1260-shift-2d-grid) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -1200,6 +1202,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3411-maximum-subarray-with-equal-products) |
