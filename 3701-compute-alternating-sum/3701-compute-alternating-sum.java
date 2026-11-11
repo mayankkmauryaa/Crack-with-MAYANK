@@ -1,13 +1,12 @@
 class Solution {
     public int alternatingSum(int[] nums) {
-        boolean flag = true;
         int sum = 0;
-        for (int n : nums) {
-            if (flag) sum += n;
-            else sum -= n;
-            flag = !flag;
+        boolean even = true;
+        for(int i = 0; i < nums.length; i++){
+            if(even) sum = sum + nums[i];
+            else sum = sum - nums[i];
+            even = !even;
         }
         return sum;
-
     }
 }
