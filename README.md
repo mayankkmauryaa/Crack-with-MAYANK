@@ -295,6 +295,7 @@
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3364-minimum-positive-sum-subarray) |
 | [3379-transformed-array](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3379-transformed-array) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3417-zigzag-grid-traversal-with-skip) |
@@ -947,6 +948,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3364-minimum-positive-sum-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3634-minimum-removals-to-balance-array](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3634-minimum-removals-to-balance-array) |
 ## Dynamic Programming
@@ -1073,6 +1075,7 @@
 | [2906-construct-product-matrix](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2906-construct-product-matrix) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3364-minimum-positive-sum-subarray](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3364-minimum-positive-sum-subarray) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3546-equal-sum-grid-partition-i](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3546-equal-sum-grid-partition-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3719-longest-balanced-subarray-i) |
