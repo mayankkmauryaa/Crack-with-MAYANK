@@ -226,6 +226,7 @@
 | [1472-design-browser-history](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1539-kth-missing-positive-number) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1552-magnetic-force-between-two-balls](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1552-magnetic-force-between-two-balls) |
@@ -526,6 +527,7 @@
 | [1401-circle-and-rectangle-overlapping](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1486-xor-operation-in-an-array](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -996,6 +998,7 @@
 | [1236-n-th-tribonacci-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1250-longest-common-subsequence) |
 | [1395-count-number-of-teams](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1395-count-number-of-teams) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1872-stone-game-viii](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1872-stone-game-viii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -1065,6 +1068,7 @@
 | [0724-find-pivot-index](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0724-find-pivot-index) |
 | [1310-xor-queries-of-a-subarray](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1310-xor-queries-of-a-subarray) |
 | [1480-running-sum-of-1d-array](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1732-find-the-highest-altitude) |
