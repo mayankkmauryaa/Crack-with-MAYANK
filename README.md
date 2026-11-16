@@ -627,6 +627,7 @@
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 | [2211-count-collisions-on-a-road](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2211-count-collisions-on-a-road) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2224-minimum-number-of-operations-to-convert-time) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2409-count-days-spent-together](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2409-count-days-spent-together) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -685,6 +686,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2211-count-collisions-on-a-road](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2211-count-collisions-on-a-road) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2553-separate-the-digits-in-an-array](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2553-separate-the-digits-in-an-array) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2696-minimum-string-length-after-removing-substrings) |
