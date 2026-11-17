@@ -646,6 +646,7 @@
 | [3612-process-string-with-special-operations-i](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3612-process-string-with-special-operations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3713-longest-balanced-substring-i) |
 | [3838-weighted-word-mapping](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/3838-weighted-word-mapping) |
+| [4106-find-mismatched-segments-between-two-strings](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/4106-find-mismatched-segments-between-two-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
