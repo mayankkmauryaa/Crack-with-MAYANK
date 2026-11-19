@@ -602,6 +602,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0944-delete-columns-to-make-sorted) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1021-remove-outermost-parentheses](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1021-remove-outermost-parentheses) |
+| [1078-occurrences-after-bigram](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1078-occurrences-after-bigram) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1189-maximum-number-of-balloons) |
