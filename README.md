@@ -626,6 +626,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2000-reverse-prefix-of-word) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 | [2211-count-collisions-on-a-road](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2211-count-collisions-on-a-road) |
