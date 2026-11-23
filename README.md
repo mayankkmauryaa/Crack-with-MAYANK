@@ -268,6 +268,7 @@
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2197-replace-non-coprime-numbers-in-array) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -468,6 +469,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1980-find-unique-binary-string](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1980-find-unique-binary-string) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -837,6 +839,7 @@
 | [2141-maximum-running-time-of-n-computers](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2195-append-k-integers-with-minimal-sum) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -1043,6 +1046,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1189-maximum-number-of-balloons) |
 | [1267-count-servers-that-communicate](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1267-count-servers-that-communicate) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2833-furthest-point-from-origin](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/2833-furthest-point-from-origin) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
