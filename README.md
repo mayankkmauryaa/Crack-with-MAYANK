@@ -220,6 +220,7 @@
 | [1310-xor-queries-of-a-subarray](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1310-xor-queries-of-a-subarray) |
 | [1331-rank-transform-of-an-array](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1390-four-divisors](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1390-four-divisors) |
 | [1395-count-number-of-teams](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1395-count-number-of-teams) |
@@ -524,6 +525,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1266-minimum-time-visiting-all-points) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1352-product-of-the-last-k-numbers) |
 | [1360-number-of-days-between-two-dates](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1360-number-of-days-between-two-dates) |
 | [1390-four-divisors](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1390-four-divisors) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -1078,6 +1080,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0724-find-pivot-index) |
 | [1310-xor-queries-of-a-subarray](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1310-xor-queries-of-a-subarray) |
+| [1352-product-of-the-last-k-numbers](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -1360,6 +1363,7 @@
 | [0303-range-sum-query-immutable](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0304-range-sum-query-2d-immutable) |
 | [0460-lfu-cache](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/0460-lfu-cache) |
+| [1352-product-of-the-last-k-numbers](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1352-product-of-the-last-k-numbers) |
 | [1472-design-browser-history](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1472-design-browser-history) |
 ## Database
 |  |
@@ -1405,6 +1409,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1352-product-of-the-last-k-numbers) |
 | [1472-design-browser-history](https://github.com/mayankkmauryaa/Crack-with-MAYANK/tree/master/1472-design-browser-history) |
 ## Manacher
 |  |
