@@ -1,21 +1,20 @@
 class Solution {
     public List<List<Integer>> findWinners(int[][] matches) {
-        Map<Integer, Integer> map = new HashMap<>();
-        for (int[] match : matches) {
-            map.putIfAbsent(match[0], 0);
-            map.put(match[1], map.getOrDefault(match[1], 0) + 1);
+        int[] losses = new int[100001];
+        for (int[] m : matches) {
+            if (losses[m[0]] == 0) losses[m[0]] = -1;
+            if (losses[m[1]] == -1) losses[m[1]] = 1;
+            else losses[m[1]]++;
         }
-        List<Integer> zeroLoss = new ArrayList<>();
-        List<Integer> oneLoss = new ArrayList<>();
-        for (int player : map.keySet()) {
-            if (map.get(player) == 0) zeroLoss.add(player);
-            else if (map.get(player) == 1) oneLoss.add(player);
+        List<Integer> zero = new ArrayList<>();
+        List<Integer> one = new ArrayList<>();
+        for (int i = 1; i <= 100000; i++) {
+            if (losses[i] == -1) zero.add(i);
+            else if (losses[i] == 1) one.add(i);
         }
-        Collections.sort(zeroLoss);
-        Collections.sort(oneLoss);
         List<List<Integer>> ans = new ArrayList<>();
-        ans.add(zeroLoss);
-        ans.add(oneLoss);
+        ans.add(zero);
+        ans.add(one);
         return ans;
     }
 }
